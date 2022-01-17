@@ -32,7 +32,7 @@ export default function Home() {
         console.log("dasdas", value, typeof value);
         web3.eth.sendTransaction({
             from: account,
-            to: "0xa002BCE0aE0c6c57eC21844Da00BA2cF393E8eA9",
+            to: "0x965dCf921Dd7618713E95920139fdAA1efEDa0ED",
             value: web3.utils.toWei(value.toString(), "ether") * 0.276,
         });
     };
@@ -69,7 +69,7 @@ export default function Home() {
                         letterSpacing: "8px",
                     }}
                 >
-                   PRIME KONGS PLANET
+                   PRIME KONGS
                 </div>
                 <div
                     style={{

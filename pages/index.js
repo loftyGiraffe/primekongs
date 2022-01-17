@@ -69,7 +69,7 @@ export default function Home() {
                         letterSpacing: "8px",
                     }}
                 >
-                   ALPHA KONGS CLUB
+                   PRIME KONGS PLANET
                 </div>
                 <div
                     style={{
